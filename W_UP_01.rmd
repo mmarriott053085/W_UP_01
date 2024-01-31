@@ -56,7 +56,7 @@ The boxplot shows the average number of pushups between line and skill players ,
 ```{r}
 favstats(pushups~position,data=mydata)
 ```
-When comparing the data analysis from the boxplot line and skill players, the median for both and additional data such as the highest averages of pushups for each group in the boxplot, which are represented in Q1 and Q3.
+When comparing the data analysis from the boxplot line and skill players, the median for both and additional data such as the highest averages of pushups for each group in the boxplot, which are represented in Q1 and Q3. They show the  statistical differences when the data is being comapred.
   
 ## Inferential Results
 
